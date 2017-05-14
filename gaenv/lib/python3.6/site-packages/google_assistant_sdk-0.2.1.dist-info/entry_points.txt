@@ -1,0 +1,4 @@
+[console_scripts]
+googlesamples-assistant = googlesamples.assistant.__main__:main [samples]
+googlesamples-assistant-auth = googlesamples.assistant.auth_helpers.__main__:main [samples]
+
