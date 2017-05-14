@@ -1,18 +1,20 @@
 # Google Assistant SDK sample
 
+
 ## Installation instructions google assistant SDK
 
 - [xda-developers](https://www.xda-developers.com/how-to-get-google-assistant-on-your-windows-mac-or-linux-machine/)
 - [Install SDK on mac 9to5google.com](https://9to5google.com/2017/05/09/how-to-install-google-assistant-mac-pc-computer/)
 
+## Using Google Assistant SDK
 
-## Activating environment
+### Activating environment
 
 ```bash
 source gaenv/bin/activate
 ```
 
-## Running script
+### Running script
 
 ```
 python3 main.py
